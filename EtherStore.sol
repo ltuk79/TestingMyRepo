@@ -21,4 +21,4 @@ contract EtherStore {
     function getBalance() public view returns (uint256) {
         return address(this).balance;
     }
-}
+}  Demo Code Review Agent
